@@ -1,0 +1,21 @@
+{
+    "name": "nayeem/laravel-pwa",
+    "description": "this package is used for the pwa website.",
+    "type": "library",
+    "require": {
+        "php": "8.0.19",
+        "illuminate/support": ">=8.0.19"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nayeem\\LaravelPwa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nayeem"
+        }
+    ],
+    "minimum-stability": "dev"
+}
